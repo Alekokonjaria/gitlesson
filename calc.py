@@ -1,6 +1,4 @@
 
-print("Best Calculator ever!")
-
 x = int(input("X: "));
 y = int(input("Y: "));
 
