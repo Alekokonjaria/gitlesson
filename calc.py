@@ -1,8 +1,5 @@
 
-<<<<<<< HEAD
 print("Best calculator ever!")
-=======
->>>>>>> mult-feature
 
 x = int(input("X: "));
 y = int(input("Y: "));
