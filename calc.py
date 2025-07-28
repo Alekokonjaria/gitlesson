@@ -7,6 +7,8 @@ y = int(input("Y: "));
 print(f"Sum: {x + y}")
 print(f"Sun: {x - y}")
 print(f"Mul: {x * y}")
+print(f"Pow: {x ** y}")
+
 if y == 0:
 	print("Can't divide by 0")
 else:
