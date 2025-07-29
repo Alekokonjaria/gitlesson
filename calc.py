@@ -13,3 +13,5 @@ if y == 0:
 	print("Can't divide by 0")
 else:
 	print(f"Div: {x / y}")
+
+print("Bye,Bye!")
